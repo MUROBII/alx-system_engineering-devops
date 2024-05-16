@@ -1,9 +1,7 @@
-```html
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Regular Expressions Project</title>
 </head>
 <body>
 
@@ -241,5 +239,3 @@ Google,+16474951758,-1:0:-1:0:-1
 
 </body>
 </html>
-```
-
