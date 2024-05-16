@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -241,5 +240,3 @@ Google,+16474951758,-1:0:-1:0:-1
 
 </body>
 </html>
-```
-
