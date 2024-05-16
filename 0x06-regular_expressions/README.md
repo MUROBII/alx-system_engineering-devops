@@ -44,7 +44,7 @@ $
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
 - Directory: 0x06-regular_expressions
 - File: 0-simply_match_school.rb
 
@@ -56,7 +56,8 @@ $
 - Using the project instructions, create a Ruby script that accepts one argument and passes it to a regular expression matching method.
 
 **Conceptual Description:**
-![Repetition Token #0](https://example.com/repetition_token_0_image.png)
+![Repetition Token #0](./task0)
+<img src="./task0">
 
 **Example:**
 ```
@@ -65,7 +66,8 @@ $
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
+**Score:** 0.0%
 - Directory: 0x06-regular_expressions
 - File: 1-repetition_token_0.rb
 
@@ -77,7 +79,8 @@ $
 - Using the project instructions, create a Ruby script that accepts one argument and passes it to a regular expression matching method.
 
 **Conceptual Description:**
-![Repetition Token #1](https://example.com/repetition_token_1_image.png)
+![Repetition Token #1](./task1)
+<img src="./task1">
 
 **Example:**
 ```
@@ -86,7 +89,7 @@ $
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
 - Directory: 0x06-regular_expressions
 - File: 2-repetition_token_1.rb
 
@@ -98,7 +101,8 @@ $
 - Using the project instructions, create a Ruby script that accepts one argument and passes it to a regular expression matching method.
 
 **Conceptual Description:**
-![Repetition Token #2](https://example.com/repetition_token_2_image.png)
+![Repetition Token #2](./task2)
+<img src="./task2">
 
 **Example:**
 ```
@@ -107,7 +111,7 @@ $
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
 - Directory: 0x06-regular_expressions
 - File: 3-repetition_token_2.rb
 
@@ -120,7 +124,8 @@ $
 - Your regex should not contain square brackets.
 
 **Conceptual Description:**
-![Repetition Token #3](https://example.com/repetition_token_3_image.png)
+![Repetition Token #3](./tastk3)
+<img src="./task3">
 
 **Example:**
 ```
@@ -129,7 +134,7 @@ $
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
 - Directory: 0x06-regular_expressions
 - File: 4-repetition_token_3.rb
 
@@ -141,7 +146,8 @@ $
 - Using the project instructions, create a Ruby script that accepts one argument and passes it to a regular expression matching method.
 
 **Conceptual Description:**
-![Not quite HBTN yet](https://example.com/not_quite_hbtn_yet_image.png)
+![Not quite HBTN yet](./task4)
+<img src="./task4">
 
 **Example:**
 ```
@@ -156,7 +162,7 @@ h8n$
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
 - Directory: 0x06-regular_expressions
 - File: 5-beginning_and_end.rb
 
@@ -168,7 +174,8 @@ h8n$
 - Using the project instructions, create a Ruby script that accepts one argument and passes it to a regular expression matching method.
 
 **Conceptual Description:**
-![Call me maybe](https://example.com/call_me_maybe_image.png)
+![Call me maybe](./task5)
+<img src="./task5">
 
 **Example:**
 ```
@@ -183,7 +190,7 @@ $
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
 - Directory: 0x06-regular_expressions
 - File: 6-phone_number.rb
 
@@ -196,7 +203,8 @@ $
 - Using the project instructions, create a Ruby script that accepts one argument and passes it to a regular expression matching method.
 
 **Conceptual Description:**
-![OMG WHY ARE YOU SHOUTING?](https://example.com/omg_why_are_you_shouting_image.png)
+![OMG WHY ARE YOU SHOUTING?](./task6)
+<img src="./task6">
 
 **Example:**
 ```
@@ -209,7 +217,7 @@ $
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
 - Directory: 0x06-regular_expressions
 - File: 7-OMG_WHY_ARE_YOU_SHOUTING.rb
 
@@ -224,7 +232,8 @@ $
 - Using the project instructions, create a Ruby script that accepts one argument and passes it to a regular expression matching method.
 
 **Conceptual Description:**
-![Textme](https://example.com/textme_image.png)
+![Textme](./task7)
+<img src="./task7">
 
 **Example:**
 ```
@@ -233,7 +242,7 @@ Google,+16474951758,-1:0:-1:0:-1
 ```
 
 **Repo:**
-- GitHub repository: [alx-system_engineering-devops](https://github.com/alx-system_engineering-devops)
+- GitHub repository: [alx-system_engineering-devops](https://github.com/MUROBII/alx-system_engineering-devops)
 - Directory: 0x06-regular_expressions
 - File: 100-textme.rb
 
